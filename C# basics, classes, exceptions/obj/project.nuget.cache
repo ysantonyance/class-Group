@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "aMiIFMvJfj4=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\zinov\\source\\repos\\C# basics, classes, exceptions\\C# basics, classes, exceptions.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\zinov\\.nuget\\packages\\microsoft.dotnet.ilcompiler\\9.0.9\\microsoft.dotnet.ilcompiler.9.0.9.nupkg.sha512",
+    "C:\\Users\\zinov\\.nuget\\packages\\microsoft.net.illink.tasks\\9.0.9\\microsoft.net.illink.tasks.9.0.9.nupkg.sha512",
+    "C:\\Users\\zinov\\.nuget\\packages\\runtime.win-x64.microsoft.dotnet.ilcompiler\\9.0.9\\runtime.win-x64.microsoft.dotnet.ilcompiler.9.0.9.nupkg.sha512"
+  ],
+  "logs": []
+}

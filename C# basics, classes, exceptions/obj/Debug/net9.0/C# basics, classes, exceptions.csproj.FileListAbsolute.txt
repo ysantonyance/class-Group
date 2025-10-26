@@ -1,0 +1,14 @@
+C:\Users\zinov\source\repos\C# basics, classes, exceptions\bin\Debug\net9.0\C# basics, classes, exceptions.exe
+C:\Users\zinov\source\repos\C# basics, classes, exceptions\bin\Debug\net9.0\C# basics, classes, exceptions.deps.json
+C:\Users\zinov\source\repos\C# basics, classes, exceptions\bin\Debug\net9.0\C# basics, classes, exceptions.runtimeconfig.json
+C:\Users\zinov\source\repos\C# basics, classes, exceptions\bin\Debug\net9.0\C# basics, classes, exceptions.dll
+C:\Users\zinov\source\repos\C# basics, classes, exceptions\bin\Debug\net9.0\C# basics, classes, exceptions.pdb
+C:\Users\zinov\source\repos\C# basics, classes, exceptions\obj\Debug\net9.0\C# basics, classes, exceptions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zinov\source\repos\C# basics, classes, exceptions\obj\Debug\net9.0\C# basics, classes, exceptions.AssemblyInfoInputs.cache
+C:\Users\zinov\source\repos\C# basics, classes, exceptions\obj\Debug\net9.0\C# basics, classes, exceptions.AssemblyInfo.cs
+C:\Users\zinov\source\repos\C# basics, classes, exceptions\obj\Debug\net9.0\C# basics, classes, exceptions.csproj.CoreCompileInputs.cache
+C:\Users\zinov\source\repos\C# basics, classes, exceptions\obj\Debug\net9.0\C# basics, classes, exceptions.dll
+C:\Users\zinov\source\repos\C# basics, classes, exceptions\obj\Debug\net9.0\refint\C# basics, classes, exceptions.dll
+C:\Users\zinov\source\repos\C# basics, classes, exceptions\obj\Debug\net9.0\C# basics, classes, exceptions.pdb
+C:\Users\zinov\source\repos\C# basics, classes, exceptions\obj\Debug\net9.0\C# basics, classes, exceptions.genruntimeconfig.cache
+C:\Users\zinov\source\repos\C# basics, classes, exceptions\obj\Debug\net9.0\ref\C# basics, classes, exceptions.dll
